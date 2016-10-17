@@ -1,0 +1,21 @@
+body{
+	color: #000;
+}
+
+.judul{
+	background: salmon;
+	padding: 10px;
+
+}
+
+.judul h2,h3{
+	height: 15px;
+}
+
+.tombol{
+	background : salmon;
+	padding:10px;
+	border:2px solid #FFF;
+	display:inline-block;
+}
+
